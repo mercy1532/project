@@ -10,7 +10,11 @@ To access the data and perform subsequent analysis, we need to import the requir
 libraries,clean the data, and transform data into a suitable format further analysis and give
 insights.
 
+The Data
 
+bom.movie_gross.csv.gz
+imdb.title_basics.csv
+imdb.title_ratings.csv
 
 
 
